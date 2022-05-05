@@ -15,10 +15,10 @@
     "static/development/_middlewareManifest.js"
   ],
   "pages": {
-    "/": [
+    "/404": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/index.js"
+      "static/chunks/pages/404.js"
     ],
     "/_app": [
       "static/chunks/webpack.js",
@@ -30,10 +30,45 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/landing": [
+    "/admin/dashboards/homeDashboard": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
-      "static/chunks/pages/landing.js"
+      "static/chunks/pages/admin/dashboards/homeDashboard.js"
+    ],
+    "/admin/production/Communications": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/admin/production/Communications.js"
+    ],
+    "/admin/production/Deals": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/admin/production/Deals.js"
+    ],
+    "/admin/production/ServiceTickets": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/admin/production/ServiceTickets.js"
+    ],
+    "/admin/tasks/NewBlog": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/admin/tasks/NewBlog.js"
+    ],
+    "/admin/tasks/NewContact": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/admin/tasks/NewContact.js"
+    ],
+    "/admin/tasks/NewDeal": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/admin/tasks/NewDeal.js"
+    ],
+    "/admin/tasks/NewPortfolio": [
+      "static/chunks/webpack.js",
+      "static/chunks/main.js",
+      "static/chunks/pages/admin/tasks/NewPortfolio.js"
     ]
   },
   "ampFirstPages": []
