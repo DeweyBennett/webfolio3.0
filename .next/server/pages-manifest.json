@@ -2,18 +2,10 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/404": "pages/404.js",
   "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/admin/dashboards/homeDashboard": "pages/admin/dashboards/homeDashboard.js",
+  "/api/blog": "pages/api/blog.js",
   "/api/portfolio": "pages/api/portfolio.js",
   "/api/auth/users": "pages/api/auth/users.js",
-  "/api/deals": "pages/api/deals.js",
-  "/admin/production/Communications": "pages/admin/production/Communications.js",
-  "/api/messaging/contactForm": "pages/api/messaging/contactForm.js",
-  "/admin/production/ServiceTickets": "pages/admin/production/ServiceTickets.js",
-  "/admin/tasks/NewBlog": "pages/admin/tasks/NewBlog.js",
-  "/admin/tasks/NewDeal": "pages/admin/tasks/NewDeal.js",
-  "/admin/tasks/NewPortfolio": "pages/admin/tasks/NewPortfolio.js",
-  "/admin/tasks/NewContact": "pages/admin/tasks/NewContact.js",
-  "/admin/dashboards/homeDashboard": "pages/admin/dashboards/homeDashboard.js",
-  "/api/blog": "pages/api/blog.js"
+  "/": "pages/index.js"
 }
