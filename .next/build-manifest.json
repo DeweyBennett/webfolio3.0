@@ -30,11 +30,6 @@
       "static/chunks/main.js",
       "static/chunks/pages/_error.js"
     ],
-    "/auth/credentials_login": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/auth/credentials_login.js"
-    ],
     "/landing": [
       "static/chunks/webpack.js",
       "static/chunks/main.js",
