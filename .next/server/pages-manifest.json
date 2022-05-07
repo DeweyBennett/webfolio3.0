@@ -2,5 +2,7 @@
   "/_app": "pages/_app.js",
   "/_error": "pages/_error.js",
   "/_document": "pages/_document.js",
-  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js"
+  "/api/auth/[...nextauth]": "pages/api/auth/[...nextauth].js",
+  "/admin/production/Communications": "pages/admin/production/Communications.js",
+  "/404": "pages/404.js"
 }
