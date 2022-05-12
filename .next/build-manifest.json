@@ -34,11 +34,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/admin/dashboards/homeDashboard.js"
-    ],
-    "/auth/credentials_login": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/auth/credentials_login.js"
     ]
   },
   "ampFirstPages": []
